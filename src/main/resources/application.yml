@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: movie_rental_micro
+netty:
+  default:
+    allocator:
+      max-order: 3
